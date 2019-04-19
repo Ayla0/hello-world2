@@ -11,6 +11,8 @@ public class MyFirstClass {
 		// TODO Auto-generated method stub
 		System.out.print(args[0]);
 		
+		// why can i do this?
+		
 		// f indicates float, defaults to int
 		float f = 1000.0f;
 		
